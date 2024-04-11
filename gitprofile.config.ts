@@ -2,14 +2,14 @@
 
 const CONFIG = {
   github: {
-    username: 'tvanlaar', // Your GitHub org/user name. (This is the only required config)
+    username: 'amichael100199', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['tvanlaar/MBAProjects', 'tvanlaar/Bioinformatics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['amichael100199/Projects', 'amichael100199/Bioinformatics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,13 +52,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Andrew Michael',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'triciavanlaar',
-    twitter: 'tvanlaarmicro',
+    linkedin: '',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -71,9 +71,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://amichael100199.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'amichael1@csustan.edu',
   },
   resume: {
     fileUrl:
