@@ -80,22 +80,22 @@ const CONFIG = {
       'https://amichael100199.github.io/pdf/AndrewMichaelCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Bioinformatics', 'Academic Writing'
+    'Bioinformatics', 'Academic Writing',
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
-      to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      company: 'American Eagle Outfitters',
+      position: 'Lead Cashier', 'Store Associate'
+      from: 'April 2017',
+      to: 'December 2021',
+      companyLink: '',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'Stanton Optical',
+      position: 'Patient Coordinator', 'Store Associate'
+      from: 'August 2022',
+      to: 'Present',
+      companyLink: '',
     },
   ],
   certifications: [
