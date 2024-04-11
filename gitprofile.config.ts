@@ -80,7 +80,7 @@ const CONFIG = {
       'https://amichael100199.github.io/pdf/AndrewMichaelCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Bioinformatics', 'Academic Writing'
   ],
   experiences: [
     {
