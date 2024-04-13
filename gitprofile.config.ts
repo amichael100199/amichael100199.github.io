@@ -85,14 +85,14 @@ const CONFIG = {
   experiences: [
     {
       company: 'Stanton Optical',
-      position: 'Patient Coordinator', 'Store Associate',
+      position: 'Patient Coordinator, Store Associate',
       from: 'August 2022',
       to: 'Present',
       companyLink: '',
     },
     {
       company: 'American Eagle Outfitters',
-      position: 'Lead Cashier', 'Store Associate',
+      position: 'Lead Cashier, Store Associate',
       from: 'April 2017',
       to: 'December 2021',
       companyLink: '',
